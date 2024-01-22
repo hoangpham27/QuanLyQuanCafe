@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FormAccountChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAccountProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAdminAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAdminAccountEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAdminCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAdminCategoryEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAdminChart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAdminFood.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAdminFoodEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAdminManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAdminRevenue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAdminTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAdminTableEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormIssueAnInvoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
